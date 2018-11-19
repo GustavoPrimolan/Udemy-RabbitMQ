@@ -1,0 +1,11 @@
+Links Mentioned in the video lecture:
+
+Erlang Installer URL: http://www.erlang.org/downloads 
+
+RabbitMQ Installer URL: https://www.rabbitmq.com/download.html 
+
+Command to enable RabbitMQ Management UI Plugin: rabbitmq-plugins enable rabbitmq_management
+
+Note: once you install the RabbitMQ management plugin, the default account with credentials Username:guest & Password: Guest will be automatically set up. 
+
+However, this account is only accessible if you are accessing RabbitMQ from the same machine where it is installed, and so will not work if you use these credentials to try and access the management UI from another machine.
