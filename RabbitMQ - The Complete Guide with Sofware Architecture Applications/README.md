@@ -1,4 +1,5 @@
 
+<a href="https://www.udemy.com/rabbitmq-the-complete-guide-with-software-architecture-applications/" target="_blank">Curso</a>
 
 <h1>Seção 01 - Introdução ao RabbitMQ</h1>
 
